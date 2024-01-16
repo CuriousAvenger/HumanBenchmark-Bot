@@ -28,7 +28,3 @@ if __name__ == "__main__":
     bot = AimTrainerBot()
     bot.initialize(btn_xpath)
     bot.logic(target_xpath)
-
-
-
-# 
